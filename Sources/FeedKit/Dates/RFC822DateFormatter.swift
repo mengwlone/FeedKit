@@ -32,7 +32,8 @@ class RFC822DateFormatter: DateFormatter {
         "EEE, d MMM yyyy HH:mm:ss zzz",
         "EEE, d MMM yyyy HH:mm zzz",
         "d MMM yyyy HH:mm:ss Z",
-        "yyyy-MM-dd HH:mm:ss Z"
+        "yyyy-MM-dd HH:mm:ss Z",
+        "yyyy-MM-dd HH:mm:ss"
     ]
     
     let backupFormats = [
